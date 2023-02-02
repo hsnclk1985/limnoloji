@@ -1,1 +1,1 @@
-# Abant İzzet Baysal Üniversitesi Mezunları Derneği Resmi Web Sitesi.
+# Limnoloji Derneği Resmi Web Sitesi.
