@@ -14,13 +14,13 @@ locale                   : "en-US"
 title                    : "" #Minimal Mistakes
 title_separator          : "-"
 subtitle                 : "" #A Jekyll theme
-name                     : &name "H. Celik" # &name is a YAML anchor which can be *referenced later
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+name                     : &name "Limnoloji Derneği" # &name is a YAML anchor which can be *referenced later
+description              : &description "Limnoloji Derneği Resmi Web Sayfası"
 url                      : #https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog" /minimal-mistakes
-repository               : 
+repository               :
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : /assets/images/ibumed_logo.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : /assets/images/logo2.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -72,9 +72,9 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : &twitter "ibumed"
+  username               : &twitter ""
 facebook:
-  username               : &facebook "ibumed"
+  username               : &facebook ""
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
@@ -84,8 +84,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/ibumed"
-    - "https://www.facebook.com/groups/ibumed"
+    - ""
+    - ""
 
 # Analytics
 analytics:
@@ -104,10 +104,10 @@ author:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://www.twitter.com/ibumed"
+      url: ""
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/groups/ibumed"
+      url: ""
 
 
 # Site Footer
@@ -115,10 +115,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://www.twitter.com/ibumed"
+      url: ""
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/groups/ibumed"
+      url: ""
 
 
 # Reading Files
