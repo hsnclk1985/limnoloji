@@ -43,6 +43,6 @@ feature_row:
 
 [Limnoloji](http://www.wiki-zero.net/index.php?q=aHR0cHM6Ly90ci53aWtpcGVkaWEub3JnL3dpa2kvTGltbm9sb2pp), doğal ve yapay [göl](http://www.wiki-zero.net/index.php?q=aHR0cHM6Ly90ci53aWtpcGVkaWEub3JnL3dpa2kvRyVDMyVCNmw) ve [göletlerin](http://www.wiki-zero.net/index.php?q=aHR0cHM6Ly90ci53aWtpcGVkaWEub3JnL3dpa2kvRyVDMyVCNmxldA) fiziksel ve kimyasal niteliklerini, ekolojisini, çevreyle etkileşimlerini, içlerindeki su ve enerji akımlarını inceleyen bilim dalı.
 
-![BAİBÜ Mezunları Derneği (İBUMED) üyelik ön başvuru](/assets/images/tarihte_Limnoloji1-2.jpg){: .align-center}
+![BAİBÜ Mezunları Derneği (İBUMED) üyelik ön başvuru](/assets/images/tarihce.jpg){: .align-center}
 
 Referans : [link](https://tr.wikipedia.org/wiki/Kategori:Limnoloji)

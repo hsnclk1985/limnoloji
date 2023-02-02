@@ -44,7 +44,7 @@ Derneğimiz adından da anlaşılacağı gibi önemli bir bilim dalını kapsama
 
 * Dernekler Mevzuatını dökümanını bu [link](https://yadi.sk/i/AzekEzS63Wkoox) ya da bu [link]({{ site.url }}{{ site.baseurl }}/assets/docs/Dernekler-Mevzuati.pdf) aracılığı ile indirebilirsiniz.
 
-* Limnoloji Derneği Sunum dökümanını bu [link](https://yadi.sk/i/1yyC1wNs3WkpYc) ya da bu [link]({{ site.url }}{{ site.baseurl }}/assets/docs/Limnoloji Derneği.ppt) aracılığı ile indirebilirsiniz.
+* Limnoloji Derneği Sunum dökümanını bu [link](https://yadi.sk/i/1yyC1wNs3WkpYc) ya da bu [link]({{ site.url }}{{ site.baseurl }}/assets/docs/Limnoloji-Dernegi.ppt) aracılığı ile indirebilirsiniz.
 
 * Türkiye Limnoloji Derneği Tüzüğünü bu [link](https://yadi.sk/i/gi_GppV83Wkptj) ya da bu [link]({{ site.url }}{{ site.baseurl }}/assets/docs/tr-limnoloji-dernegi-tuzugu.doc) aracılığı ile indirebilirsiniz.
 
