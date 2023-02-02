@@ -30,7 +30,7 @@ feature_row:
     url: "/iletisim/"
     btn_class: "btn--inverse"
     btn_label: "İletişim İçin"
-  - image_path: /assets/images/form.jpg
+  - image_path: /assets/images/form.jpeg
     alt: "Limnoloji Derneği Üyeliği"
     title: "Limnoloji Derneği Üyeliği"
     excerpt: "Derneğimize üye olmak isteyenler, öncelikli olarak başvuru formunu doldurmaları ve tarafımıza iletmeleri gerekmektedir."
