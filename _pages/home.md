@@ -17,7 +17,7 @@ excerpt: >
 
 feature_row:
   - image_path: /assets/images/blog.jpeg
-  alt: "Limnoloji Derneği Blog Sayfası"
+    alt: "Limnoloji Derneği Blog Sayfası"
     title: "Duyurular"
     excerpt: "Duyurularımız ve paylaştığımız önemli yazılarımız için blog sayfamısı ziyaret edebilisiniz."
     url: "/posts/"
