@@ -13,7 +13,7 @@ header:
     - label: "Derneğimize Üye Olmak İçin"
       url: "/uyelik/"
 excerpt: >
-  Türkiye Limnoloji Derneği Resmi Web Sitesidir.<br />
+  Türkiye Limnoloji Derneği Resmî Web Sitesidir.<br />
 
 feature_row:
   - image_path: /assets/images/blog.jpeg
