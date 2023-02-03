@@ -17,7 +17,7 @@ tags:
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2018-07-21-SEFS-11-Symposium-for-European-Freshwater-Sciences/SEEFS_chosen-LOGO-300x300.png" alt="SEFS 11. Symposium for European Freshwater Sciences Uluslararası Sempozyumu Hakkında Duyuru" class="align-center">
 
-Limnoloji Derneği'nin değerli üyeleri, dün aldığımız bir güzel haberi sizlerle paylaşmak istedim. Buna göre Limnoloji Derneği'miz adına seneye Hırvatistanda yapılacak olan SEFS 11. Symposium for European Freshwater Sciences uluslararası sempozyumda Bilim Komitesine seçilmiş bulunmaktayız. Liste aşağıda verilmiştir.
+Limnoloji Derneği'nin değerli üyeleri, dün aldığımız bir güzel haberi sizlerle paylaşmak istedim. Buna göre **Limnoloji Derneği**'miz adına seneye **Hırvatistanda** yapılacak olan **SEFS 11. Symposium for European Freshwater Sciences** uluslararası sempozyumda **Bilim Komitesine** seçilmiş bulunmaktayız. Liste aşağıda verilmiştir.
 
 Daha önce bu komitede bulunmuş olan başka hocamız olup olmadığını bilemiyorum. Ancak, Limnoloji Derneği olarak bence bu bir başarıdır ve bütün dernek üyelerimiz adına olan bu başarıyı sizlerle kutlamak istedim.
 
@@ -25,7 +25,7 @@ Sizleri ve derneğimizi en iyi şekilde temsil edeceğimi biliniz.
 
 Limnoloji Derneği adına teşekkür eder, hepinizi Sakarya Üniversitesi'nde yapılacak olan 8. Ulusal Limnoloji Sempozyumu'nda görmek umuduyla..
 
-Okan Külköylüoğlu..//
+**Okan Külköylüoğlu**..//
 
 
 SEFS11 Scientific Committee (alphabetically)
@@ -39,7 +39,7 @@ SEFS11 Scientific Committee (alphabetically)
 * Michael Döring, SSHL, Zürich University of Applied Sciences – ZHAW,  Switzerland
 * Alan Hildrew, FBA, Queen Mary University of London, UK
 * Iwona Jasser, PHS, University of Warsaw, Poland
-* Okan Külköylüoğlu, LST, Abant İzzet Baysal University, Turkey
+* **Okan Külköylüoğlu, LST, Abant İzzet Baysal University, Turkey**
 * Anne Liljendahl , FLS, The Association for Water and Environment of Western Uusimaa, Finland
 * Renata Matoničkin Kepčija, CAFE, University of Zagreb, Croatia
 * Clara Mendoza-Lera, EFYR, BTU Cottbus-Senftenberg, Germany

@@ -24,10 +24,12 @@ Sayın Katılımcılar ve ilgililer,
 Yaşamakta olduğumuz Koronavirüs (**COVID-19**) Pandemisinin yol açtığı riskler, sıkıntılar ve belirsizlikler nedeniyle **19-22 Ağustos 2020** tarihlerinde yapacak olduğumuz sempozyum, düzenleme kurulu karar ile **4-6 Ağustos 2021** tarihine ertelenmiştir.
 
 
-Sürecin belirsizliğinden ötürü, az bir zaman kalana kadar sempozyumu yapabilmeyi sabırla ümit ediyorken, yaşanan son gelişmeler ve katılımcılardan gelen istekleri de göz önüne alarak sempozyumu 4-6 Ağustos 2021 tarihine ertelemiş bulunuyoruz. Elimizde olmayan bu değişikliği anlayışla karşılayacağınızı ümit ederken; Siz değerli katılımcılarımızı, önümüzdeki yıl, Burdur’da en iyi şekilde misafir etmek için bekleriz.
+Sürecin belirsizliğinden ötürü, az bir zaman kalana kadar sempozyumu yapabilmeyi sabırla ümit ediyorken, yaşanan son gelişmeler ve katılımcılardan gelen istekleri de göz önüne alarak sempozyumu **4-6 Ağustos 2021** tarihine <u>ertelemiş</u> bulunuyoruz. Elimizde olmayan bu değişikliği anlayışla karşılayacağınızı ümit ederken; Siz değerli katılımcılarımızı, önümüzdeki yıl, **Burdur**’da en iyi şekilde misafir etmek için bekleriz.
 
-**Önemli Not :** (1) Özet gönderim süreçlerimiz halen devam etmekte olup, ayrıca Online katılım da mümkün olacaktır.
-(2) Sempozyum ücretleri Bildiri Kabul yazısı geldikten sonra ilgili tarihe kadar yatırılabilecektir.
+**Önemli Not :**
+
+* (1) Özet gönderim süreçlerimiz halen devam etmekte olup, ayrıca Online katılım da mümkün olacaktır.
+* (2) Sempozyum ücretleri Bildiri Kabul yazısı geldikten sonra ilgili tarihe kadar yatırılabilecektir.
 
 ### Ayrıntılı bilgi için:
 * **Sempozyum web sayfası:** limnoloji2020.mehmetakif.edu.tr

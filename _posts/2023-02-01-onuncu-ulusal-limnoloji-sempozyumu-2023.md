@@ -19,7 +19,9 @@ tags:
 
 Sayın Katılımcılar ve ilgililer,
 
-Sempozyumumuz **04-06 Eylül 2023** tarihlerinde **Çankırı**'da gerçekleşecektir. Son Başvuru : 1 Mayıs 2023
+Sempozyumumuz **04-06 Eylül 2023** tarihlerinde **Çankırı**'da gerçekleşecektir.
+
+**Son Başvuru : 1 Mayıs 2023**
 
 **Konuşmacılar:**
 

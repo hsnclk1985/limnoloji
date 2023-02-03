@@ -19,7 +19,7 @@ tags:
 
 Değerli Katılımcılar,
 
-Sizleri **27-29 Ağustos 2018** tarihlerinde Limnoloji Derneği’nin katkılarıyla Sakarya Üniversitesi Fen Edebiyat Fakültesi Biyoloji Bölümü tarafından Sakarya’da düzenlenecek olan “VIII. Ulusal Limnoloji Sempozyumu”na davet etmekten onur ve mutluluk duyuyoruz.
+Sizleri **27-29 Ağustos 2018** tarihlerinde Limnoloji Derneği’nin katkılarıyla **Sakarya Üniversitesi Fen Edebiyat Fakültesi Biyoloji Bölümü** tarafından Sakarya’da düzenlenecek olan **“VIII. Ulusal Limnoloji Sempozyumu”**na davet etmekten onur ve mutluluk duyuyoruz.
 
 Canlıların vazgeçilmezi olan suyun, insanlığın gelecekteki yaşam kalitesini belirleyecek en önemli faktör olması tartışılmazdır. Suyun konu edildiği çalışmalar insanlık, canlılık ve bilim açısından önemlidir. Bu sebeple Limnoloji biliminin önemi her geçen gün artmaktadır. Üniversitelerimizin öğretim elemanlarının, kamu kurum ve kuruluş temsilcilerinin ve öğrencilerimizin katılım sağlayacağı toplantının amacı, daha önceki yıllarda olduğu gibi iç suların limnolojik özellikleri, sorunları, çözüm yolları gibi konularda kaliteli ve bilimsel bir tartışma ortamı oluşturarak, yeni bilgileri Limnoloji camiasına ve kamu kurum ve kuruluşlarına duyurmaktır.
 
@@ -27,13 +27,11 @@ Bu yıl düzenlenecek olan sempozyumda ilklere imza atmak istiyoruz. Bu sebeple 
 
 **Sempozyumda sunulan tüm bildiriler, “Journal of Limnology and Freshwater Fisheries Research (limnofish)” dergisinde yayınlanacak şekilde değerlendirilecektir.**
 
-“VIII. Ulusal Limnoloji Sempozyumu” sizlerin varlığı ile daha da değerlenecektir. Sempozyuma katılımlarınızla destek vereceğinizi umut ediyor ve sempozyum ekibi adına saygılar sunuyorum.
+**“VIII. Ulusal Limnoloji Sempozyumu”** sizlerin varlığı ile daha da değerlenecektir. Sempozyuma katılımlarınızla destek vereceğinizi umut ediyor ve sempozyum ekibi adına saygılar sunuyorum.
 
 
 
-Doç. Dr. Tuğba ONGUN SEVİNDİK
-
-Düzenleme Kurulu Başkanı
+**Doç. Dr. Tuğba ONGUN SEVİNDİK** (Düzenleme Kurulu Başkanı)
 
 
 Detaylı bilgiye bu [linkten](http://www.limnoloji.sakarya.edu.tr/) ulaşabilirsiniz
