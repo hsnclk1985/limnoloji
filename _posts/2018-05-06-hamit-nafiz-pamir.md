@@ -30,3 +30,6 @@ Bilimsel çalışmaların dışında daima yurdun jeoloji sorunlarıyla da ilgil
 Bugün jeoloji mesleğindeki yerini ve başarısını kendisine borçlu olan pek çok kişi büyük hocalarını şükranla anmaktadırlar. Türkiye jeoloji topluluğundaki eksikliği, doldurulamayacak kadar büyüktür.
 
 Türkiye'de yerbilimlerinin kurucusu ve ilk Türk Jeologu, büyük hoca **Ord. Prof. Dr. Hamit N. Pamir**, 6 Haziran 1976 da, İstanbul'da hayata gözlerini yummuştur.
+
+## Referanslar:
+* [link](https://www.mta.gov.tr/dogalkaynaklar/makale/detay/50)

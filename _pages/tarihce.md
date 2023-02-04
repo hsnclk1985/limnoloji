@@ -45,4 +45,4 @@ feature_row:
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/tarihce.jpg" alt="Limnoloji Tarihçesi" class="align-center">
 
-Referans : [link](https://tr.wikipedia.org/wiki/Kategori:Limnoloji)
+Referanslar : [link1](https://tr.wikipedia.org/wiki/Limnoloji), [link2](https://en.wikipedia.org/wiki/Limnology), [link3](https://www.mta.gov.tr/dogalkaynaklar/makale/detay/50)
