@@ -39,7 +39,30 @@ feature_row:
 | 10 | Ulusal Limnoloji Sempozyumu   | Çankırı   | 4-6 Eylül 2023   | ----   | ----   | ----   |
 {: rules="groups"}
 
-## Limnoloji Tarihçesi
+## Geçmişten Bir Limnoloji Kongresi
+
+Roma'da 18 Eylül'de toplanan beynelmilel limnoloji (gölbilim) kongresinde hükümetimizi temsil eden Darülfünun mevzii jeoloji muallimi Hamid Nafiz bey, kongrenin bitmesi üzerine sehrimize dönmüs ve kongre
+hakkında atideki izahat vermistir;
+
+"... Kongrede, Avrupa, Amerika ve Japonya'nın hemen bütün hükümetleri ve alakadar müesseseleri gerek resmi, gerekse hususi delegelerle temsil edilmisti. En çoğu Rus ve Alman olmak üzere takriben
+150 kadar murahhas (delege) mevcuttu. Bu kongre dördüncüsüydü.
+Memleketimiz birinci defa olarak bu kongrede temsil edildi. Bundan böyle
+beynelmilel cemiyetin azası olduk
+
+Limnologi ilmi, göllerin jeolojisi, kimyası, hayatiyatı ile iştigal eden (uğraşan) yepyeni bir ilim olup az
+zamanda bilhassa Almanya, Rusya, İskandinavya, İtalya ve Amerika'da pek çok mütehassıslar yetişti. Rusların bu kongreye arz ettikleri mesai her türlü takdirin üstündedir. Kongre, Rus mütehassıslarından Perfiliyef'e
+mesaisinden dolayı takdirlerini beyan etmistir.
+
+Kongre esnasında ve kongreden sonra İtalya°da bu ilmin tatbikatından olan, göllerde balıkçılığı coğaltmak üzere
+vücuda getirilen mükemmel müesseseleri ve gölleri gezdik. Limnoloji ilminin tekamül ettigi (geliştiği) bütün
+memleketlerde, göllerde bazı balıkları
+coğaltmak suretiyle malarya (sıtma) anofelleri imha edilmektedir. Amerika'da "**Paris yeşili**" adi verilen bir cisim ile ayni mücadele keza gayet müessir (etkili) neticeler vermiştir.
+Bu cismin kolaylıkla tatbik edilebilmesi ve ucuz olması, nebatat ile örtülmüş su sathındaki malarya anofellerini imha etmesi, suda yaşayan diğer canlılar üzerinde müessir olmaması ve bilhassa gayet kolaylıkla
+tatbik edilebilmesi dolayısıyla dünyanın her
+tarafında olduğu gibi İtalya'da da büyük muvaffakiyetler vermiştir. Beynelmilel limnoloji kongresinde diğer ilmi meseleler ile beraber bu hususlardaki tetkikat ve tetebbuat (arastirmalar) da mevzubahis olmuş ve
+muhtelif memleketlerde elde edilmiş olan neticeler zikredilmiştir. Kongre bana ilmi ve tatbiki sahalarda bütün dünyanın Jeologları, hidrobiyologları, limnologları ile hasbihâl etme fırsatını bahşetmiştir.
+Bu gibi kongrelere birer murahhasla degil, heyetlerle iştirak etmemiz pek ziyade şayânı arzudur (arzuya değerdir). Kongre neticelerini bir raporla Maarif
+Vekâleti celilesine iblağ edeceğim (sunacağım). (9 Ekim 1927 Pazar)
 
 [Limnoloji](http://www.wiki-zero.net/index.php?q=aHR0cHM6Ly90ci53aWtpcGVkaWEub3JnL3dpa2kvTGltbm9sb2pp), doğal ve yapay [göl](http://www.wiki-zero.net/index.php?q=aHR0cHM6Ly90ci53aWtpcGVkaWEub3JnL3dpa2kvRyVDMyVCNmw) ve [göletlerin](http://www.wiki-zero.net/index.php?q=aHR0cHM6Ly90ci53aWtpcGVkaWEub3JnL3dpa2kvRyVDMyVCNmxldA) fiziksel ve kimyasal niteliklerini, ekolojisini, çevreyle etkileşimlerini, içlerindeki su ve enerji akımlarını inceleyen bilim dalı.
 
