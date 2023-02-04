@@ -64,8 +64,8 @@ muhtelif memleketlerde elde edilmiş olan neticeler zikredilmiştir. Kongre bana
 Bu gibi kongrelere birer murahhasla degil, heyetlerle iştirak etmemiz pek ziyade şayânı arzudur (arzuya değerdir). Kongre neticelerini bir raporla Maarif
 Vekâleti celilesine iblağ edeceğim (sunacağım). (9 Ekim 1927 Pazar)
 
-[Limnoloji](http://www.wiki-zero.net/index.php?q=aHR0cHM6Ly90ci53aWtpcGVkaWEub3JnL3dpa2kvTGltbm9sb2pp), doğal ve yapay [göl](http://www.wiki-zero.net/index.php?q=aHR0cHM6Ly90ci53aWtpcGVkaWEub3JnL3dpa2kvRyVDMyVCNmw) ve [göletlerin](http://www.wiki-zero.net/index.php?q=aHR0cHM6Ly90ci53aWtpcGVkaWEub3JnL3dpa2kvRyVDMyVCNmxldA) fiziksel ve kimyasal niteliklerini, ekolojisini, çevreyle etkileşimlerini, içlerindeki su ve enerji akımlarını inceleyen bilim dalı.
-
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/tarihce.jpg" alt="Limnoloji Tarihçesi" class="align-center">
+
+**Not :** [Limnoloji](http://www.wiki-zero.net/index.php?q=aHR0cHM6Ly90ci53aWtpcGVkaWEub3JnL3dpa2kvTGltbm9sb2pp), doğal ve yapay [göl](http://www.wiki-zero.net/index.php?q=aHR0cHM6Ly90ci53aWtpcGVkaWEub3JnL3dpa2kvRyVDMyVCNmw) ve [göletlerin](http://www.wiki-zero.net/index.php?q=aHR0cHM6Ly90ci53aWtpcGVkaWEub3JnL3dpa2kvRyVDMyVCNmxldA) fiziksel ve kimyasal niteliklerini, ekolojisini, çevreyle etkileşimlerini, içlerindeki su ve enerji akımlarını inceleyen bilim dalı.
 
 Referanslar : [link1](https://tr.wikipedia.org/wiki/Limnoloji), [link2](https://en.wikipedia.org/wiki/Limnology), [link3](https://www.mta.gov.tr/dogalkaynaklar/makale/detay/50)
