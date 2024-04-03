@@ -27,7 +27,7 @@ header:
 </div>
 
 
-## Türkiye Limnoloji Derneği Kuruluşu
+## Limnoloji Derneği Kuruluşu
 
 **25 Şubat 2008**’de Bolu’da kuruldu. Dernek, Limnoloji bilimiyle ilgili kimseleri bir araya getirerek; tüm bu konularda çalışmalar yapan kişi ve kuruluşlara destek vermek, ortak çalışmalar yapmayı kendisine amaç olarak belirlemiştir. Bu amaç doğrultusunda yapacağı çalışmalar aşağıdaki şekilde belirlenmiştir.
 
@@ -49,6 +49,6 @@ Derneğimiz adından da anlaşılacağı gibi önemli bir bilim dalını kapsama
 
 * **Limnoloji Derneği Sunum** dökümanını bu [link](https://yadi.sk/i/1yyC1wNs3WkpYc) ya da bu [link]({{ site.url }}{{ site.baseurl }}/assets/docs/Limnoloji-Dernegi.ppt) aracılığı ile indirebilirsiniz.
 
-* **Türkiye Limnoloji Derneği Tüzüğünü** bu [link](https://yadi.sk/i/gi_GppV83Wkptj) ya da bu [link]({{ site.url }}{{ site.baseurl }}/assets/docs/tr-limnoloji-dernegi-tuzugu.doc) aracılığı ile indirebilirsiniz.
+* **Limnoloji Derneği Tüzüğünü** bu [link](https://yadi.sk/i/gi_GppV83Wkptj) ya da bu [link]({{ site.url }}{{ site.baseurl }}/assets/docs/tr-limnoloji-dernegi-tuzugu.doc) aracılığı ile indirebilirsiniz.
 
-* **Türkiye Limnoloji Derneği Uluslararası Sertifikamızı** bu [link](https://yadi.sk/i/CNJXberh3WkqGY) ya da bu [link]({{ site.url }}{{ site.baseurl }}/assets/docs/certificate-of-turkish-membership-son.doc) aracılığı ile indirebilirsiniz
+* **Limnoloji Derneği Uluslararası Sertifikamızı** bu [link](https://yadi.sk/i/CNJXberh3WkqGY) ya da bu [link]({{ site.url }}{{ site.baseurl }}/assets/docs/certificate-of-turkish-membership-son.doc) aracılığı ile indirebilirsiniz

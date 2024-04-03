@@ -14,7 +14,7 @@ header:
 
 
 ## Üyelik Beyannamesi
-Türkiye Limnoloji Derneği Üyelik Dilekçesi'ni indirmek için bu [linki]({{ site.url }}{{ site.baseurl }}/assets/docs/limnoloji-uyelik-dilekcesi.doc) ya da bu [linki](https://disk.yandex.com.tr/d/NSos1Zs-3Wkvai) ziyaret edebilirsiniz.
+Limnoloji Derneği Üyelik Dilekçesi'ni indirmek için bu [linki]({{ site.url }}{{ site.baseurl }}/assets/docs/limnoloji-uyelik-dilekcesi.doc) ya da bu [linki](https://disk.yandex.com.tr/d/NSos1Zs-3Wkvai) ziyaret edebilirsiniz.
 
 
 ## Banka Hesap Bilgileri
