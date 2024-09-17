@@ -13,7 +13,7 @@ header:
 ---
 
 * **Konum:** Bolu/Turkey
-* **Adres:** Limnoloji Derneği Abant İzzet Baysal Üniversitesi Biyoloji Bölümü No.18 14280 Bolu, Türkiye
+* **Adres:** Limnoloji Derneği, Abant İzzet Baysal Üniversitesi Biyoloji Bölümü No.18 14280 Bolu, Türkiye
 * **Telefon:** +90 374 254 1226
 * **Faks:** +90 374 253 4964
 * **Cep Telefonu:** +90 538 605 0828
