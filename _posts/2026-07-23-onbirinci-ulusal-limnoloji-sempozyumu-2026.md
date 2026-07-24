@@ -2,8 +2,8 @@
 title: "XI. Ulusal Limnoloji Sempozyumu"
 excerpt: "31 Ağustos – 2 Eylül 2026 tarihleri arasında Balıkesir'de düzenlenecek olan XI. Ulusal Limnoloji Sempozyumu'na davetlisiniz."
 header:
-  teaser: "/limnoloji/assets/images/posts/2026-07-23-onbirinci-ulusal-limnoloji-sempozyumu-2026/1.jpeg"
-  og_image: "/limnoloji/assets/images/posts/2026-07-23-onbirinci-ulusal-limnoloji-sempozyumu-2026/1.jpeg"
+  teaser: "/assets/images/posts/2026-07-23-onbirinci-ulusal-limnoloji-sempozyumu-2026/1.jpeg"
+  og_image: "/assets/images/posts/2026-07-23-onbirinci-ulusal-limnoloji-sempozyumu-2026/1.jpeg"
   overlay_color: "#5e616c"
   overlay_image: /assets/images/hero_anasayfa.jpeg
   overlay_filter: rgba(134, 163, 184, 0.8)
@@ -14,7 +14,7 @@ tags:
   - Limnoloji Sempozyumu
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/limnoloji/assets/images/posts/2026-07-23-onbirinci-ulusal-limnoloji-sempozyumu-2026/1.jpeg" alt="11.Ulusal Limnoloji Sempozyumu 2026 - Balıkesir" class="align-center">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2026-07-23-onbirinci-ulusal-limnoloji-sempozyumu-2026/1.jpeg" alt="11.Ulusal Limnoloji Sempozyumu 2026 - Balıkesir" class="align-center">
 
 Sayın Katılımcılar ve ilgililer,
 
