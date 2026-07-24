@@ -21,3 +21,5 @@ Sayın Katılımcılar ve ilgililer,
 Sempozyumumuz (symposium) **31 Ağustos - 2 Eylül 2026** tarihlerinde **Balıkesir Üniversitesi** ev sahipliğinde gerçekleşecektir.
 
 Amacımız; iç suların limnolojik özellikleri, sorunları ve çözüm yolları hakkında bilimsel bir tartışma ortamı oluşturmaktır. Küresel ısınmanın etkilerinden hareketle iklim, biyoçeşitlilik (biodiversity), mikroplastik (microplastic) ve sürdürülebilirlik (sustainability) öncelikli başlıklar olarak belirlenmiştir.
+
+Detaylı bilgi için [tıklayın](https://limnology.balikesir.edu.tr)
